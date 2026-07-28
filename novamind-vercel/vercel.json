@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/nova/organize.js": {
-      "maxDuration": 20
-    }
-  }
-}
